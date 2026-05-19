@@ -1,0 +1,34 @@
+From: "DBS Bank Security" <security.alert@dbs-verify-account.com>
+To: user@example.com
+Subject: [URGENT] Your DBS Account Has Been Suspended - Immediate Action Required
+Date: Mon, 19 May 2025 09:14:32 +0800
+Reply-To: support@dbs-phishing-reply.net
+Return-Path: <bounce@malicious-sender.ru>
+Message-ID: <20250519091432.abc123@dbs-verify-account.com>
+MIME-Version: 1.0
+Content-Type: text/html; charset=UTF-8
+Received: from mail.malicious-sender.ru (malicious-sender.ru [185.220.101.45])
+        by mx.example.com (Postfix) with ESMTP id ABC123
+        for <user@example.com>; Mon, 19 May 2025 09:14:32 +0800
+
+<html>
+<body>
+<p>Dear Valued Customer,</p>
+
+<p>We have detected <strong>suspicious activity</strong> on your DBS account.
+Your account has been <strong>temporarily suspended</strong> for security reasons.</p>
+
+<p>To restore access, please verify your identity immediately by clicking the link below:</p>
+
+<p><a href="http://dbs-account-verify.malicious-site.com/login?token=abc123xyz">
+Click here to verify your DBS account
+</a></p>
+
+<p>If you do not verify within 24 hours, your account will be permanently closed.</p>
+
+<p>Alternatively, visit: http://185.220.101.45/dbs/login</p>
+
+<p>DBS Bank Security Team<br>
+Contact: security@dbs.com.sg</p>
+</body>
+</html>
